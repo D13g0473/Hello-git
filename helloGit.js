@@ -1,1 +1,1 @@
-console.log("New hello Git!")
+console.log("New hello Git with changes!")
